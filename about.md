@@ -34,6 +34,23 @@ When I’m not in front of a terminal, I dedicate my time to:
 
 ![Tribola](/assets/images/Utili/tribi.png){: .align-center width="300" }
 
+
 ---
+
+
+## Certificazioni
+
+| Cert | Ente |
+|------|------|
+| CRTO | ZeroPointSecurity |
+| EMAPT | eLearnSecurity |
+| CRTP | Pentester Academy |
+| eCPPT | eLearnSecurity |
+
+## CVE
+- CVE-2025-20270
+- CVE-2025-20280
+- CVE-2025-20287
+- CVE-2025-20269
 
 This blog is where I share my **technical write-ups**, in-depth analyses, and research projects, aiming to contribute valuable, reproducible, and high-quality content to the security community.
