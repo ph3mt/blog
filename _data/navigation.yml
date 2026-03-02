@@ -1,7 +1,9 @@
 main:
-  - title: "Home"
+  - title: "Blog"
     url: /
-  - title: "Archivio"
-    url: /archivio/
+  - title: "Ricerche"
+    url: /tags/
+  - title: "CVE"
+    url: /cve/
   - title: "About"
     url: /about/
