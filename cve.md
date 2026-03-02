@@ -19,4 +19,4 @@ vulnerabilities in Cisco's web-based management interfaces.
 
 Full write-up: [Multiple CVEs in Cisco EPNM and Prime Infrastructure →](https://securethinklab.com/blog/2025-09-23-cisco-multiple-cves/)
 
-*Co-authored with Paolo Grossetti — credited in the official Cisco Security Advisory.*
+*Co-authored with Paolo Grossetti credited in the official Cisco Security Advisory.*
