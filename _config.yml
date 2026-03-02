@@ -1,7 +1,7 @@
 title: "ph3mt blog"
 description: "Appunti, analisi e note tecniche"
 url: "https://ph3mt.github.io"
-baseurl: "/ph3mt.github.io-blog"
+baseurl: "/blog"
 
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 minimal_mistakes_skin: "dark"
