@@ -4,6 +4,6 @@ main:
   - title: "Tags"
     url: /blog/tags/
   - title: "CVE"
-    url: /blog/cve/
+    url: /cve/
   - title: "About"
     url: /blog/about/
