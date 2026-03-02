@@ -1,24 +1,49 @@
-title: "ph3mt blog"
-description: "Appunti, analisi e note tecniche"
+title: "ph3mt"
+description: "Security research, malware analysis & reverse engineering"
 url: "https://ph3mt.github.io"
 baseurl: "/blog"
 
 remote_theme: mmistakes/minimal-mistakes@4.24.0
-minimal_mistakes_skin: "mint"
+minimal_mistakes_skin: "air"
 
 plugins:
   - jekyll-remote-theme
-  - jekyll-include-cache   # <— AGGIUNTO
+  - jekyll-include-cache
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
 
-locale: it
+locale: "en-US"
 timezone: Europe/Rome
 
-nav:
-  main: []
+# Author
+author:
+  name: "Matteo Piciarelli"
+  avatar: "/assets/images/Utili/avatar.png"
+  bio: "Penetration Tester · Malware Analyst · Red Teamer"
+  location: "Italy"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ph3mt"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/matteo-piciarelli-5a02a6146/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:ph3mtph3@proton.me"
 
+# Navigation
+navigation:
+  main:
+    - title: "Blog"
+      url: /blog/
+    - title: "Archive"
+      url: /blog/archivio/
+    - title: "About"
+      url: /blog/about/
+
+# Defaults
 defaults:
   - scope:
       path: ""
