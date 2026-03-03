@@ -59,4 +59,4 @@ When I'm not in front of a terminal:
 
 ---
 
-This blog is where I share **technical write-ups**, in-depth malware analyses, and security research — aiming to contribute reproducible, high-quality content to the security community.
+This blog is where I share **technical write-ups**, in-depth malware analyses, and security research  aiming to contribute reproducible, high-quality content to the security community.
